@@ -1,0 +1,115 @@
+[
+{
+    "title":"How is document type initialized in HTML5.?",
+    "A1":"&lt;/DOCTYPE&gt;/",
+    "A2":"&lt;/DOCTYPE&gt;",
+    "RA":"&lt!DOCTYPE HTML&gt"
+   
+},
+{
+
+    "title":" How many tags are in a regular element?",
+    "A1":"3",
+    "A2":"1",
+    "RA":"2"
+    },
+{
+
+    "title":"What is the differance between opening and closing tag ?",
+    "A1":"There is no difference",
+    "A2":"Opening tag has a / in front",
+    "RA":"Closing tag has a / in front"
+    },
+{
+
+    "title":"&lt br / &gt What type of tag is this?",
+    "A1":"An opening tag",
+    "A2":"A broken one",
+    "RA":"Break tag"
+    },
+{
+
+    "title":"&lt body &gt Is this an  ",
+    "A1":"self opening tag and closing tag",
+    "A2":"closing tag",
+    "RA":"opening tag"
+    },
+{
+    "title":"What does HTML stand for?",
+    "A1":"Hot Mail",
+    "A2":"How to Make Lasagna",
+    "RA":"Hyper text Markup language"
+
+},
+{
+
+    "title":"Which of the following HTML Elements is used for making any text bold ?",
+    "A1":"&lti&gt",
+    "A2":"&ltli&gt",
+    "RA":"&ltb&gt"
+    },
+{
+
+    "title":"Which of the following HTML element is used for creating an unordered list?",
+    "A1":"&ltui&gt",
+    "A2":"&ltem&gt",
+    "RA":"&ltul&gt"
+    } ,
+{
+
+    "title":"What is the font-size of the h1 heading tag?",
+    "A1":"2.17 em",
+    "A2":"1.5 em",
+    "RA":"2 em"
+    },
+{
+
+    "title":"How many heading tags are there in HTML5?",
+    "A1":"5",
+    "A2":"3",
+    "RA":"6"
+    },
+    {
+
+        "title":"Which tag is used for creating a drop-down selection list?",
+        "A1":"list",
+        "A2":"&ltoption&gt",
+        "RA":"&ltselect&gt"
+        },
+{
+
+    "title":"Which of the following elements can be used in HTML to create a table? ",
+    "A1":"&lttable&gt , &lttb&gt , &lttrow&gt",
+    "A2":"&lttable&gt , &lttbody&gt , &lttrow&gt ",
+    "RA":"&lttable&gt , &lttbody&gt , &lttr&gt "
+    },
+{
+
+    "title":"Which of the following is the correct way to add background color in HTML?",
+    "A1":"&ltbody bg-color = “green”&gt",
+    "A2":"&ltbody style = “background-color=green”&gt",
+    "RA":"&ltbody style = “background-color: green;”&gt"
+    },
+{
+
+    "title":"What is the purpose of using div tags in HTML?",
+    "A1":"For creating Different styles.",
+    "A2":"For adding headings",
+    "RA":"For creating different sections."
+    },
+{
+
+    "title":"Which of the following is the correct way of creating an hyperlink in HTML?",
+    "A1":"&lta&gtwww.geeksforgeeks.org &ltGeeksforgeeks /a&gt",
+    "A2":"&lta href=“www.geeksforgeeks.org” Geeksforgeeks /a&gt",
+    "RA":"&lta href= “www.geeksforgeeks.org”&gtGeeksforgeeks&lt/a&gt"
+    },
+{
+
+    "title":"Which of the following attributes is used to add link to any element?",
+    "A1":"link",
+    "A2":"ref",
+    "RA":"href"
+    }
+
+]

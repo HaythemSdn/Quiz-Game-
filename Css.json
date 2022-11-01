@@ -1,0 +1,143 @@
+[
+    {
+        "title":"Which of the below is the abbreviation of CSS ?",
+        "A1":"Color and style sheets",
+        "A2":"Cascade sheets style",
+        "RA":"Which of the below is the abbreviation of CSS ?"
+        
+    },
+    {
+    
+        "title":" Which of the following is the correct syntax to add the external stylesheet in CSS?",
+        "A1":"&ltstyle src = quiz.css&gt",
+        "A2":"&ltstylesheet&gt quiz.css &lt/stylesheet&gt",
+        "RA":"&ltlink rel='stylesheet' type='quiz/css' href='quiz.css'&gt"
+        },
+    {
+    
+        "title":"Which of the below CSS properties is used to change the background color of CSS ?",
+        "A1":"FAUX",
+        "A2":"une erreur",
+        "RA":"VRAI"
+        },
+    {
+    
+        "title":"Comment lire le jour du mois dans une date ?",
+        "A1":"bg color",
+        "A2":"color-background",
+        "RA":"background-color"
+        },
+    {
+    
+        "title":"Which of the below CSS class is used to change the text color of CSS ? ",
+        "A1":"background-color",
+        "A2":"color-background",
+        "RA":"color"
+        },
+    {
+        "title":"Which of the below is the correct syntax to put a line over text in CSS?",
+        "A1":"text-decoration: none",
+        "A2":"text-decoration: underline",
+        "RA":"text-decoration: overline"
+    
+    },
+    {
+    
+        "title":"Which below property of CSS is used to set the indentation of the first line in a block of text ?",
+        "A1":"text-overflow property",
+        "A2":"text-underlne-property",
+        "RA":"text-indent property"
+        },
+    {
+    
+        "title":"Which of the below CSS properties represent the order of flex items in the grid container ?",
+        "A1":"float",
+        "A2":"overflow",
+        "RA":"order"
+        } ,
+    {
+    
+        "title":"How do we set the default width of the font in CSS ?",
+        "A1":"font-weight",
+        "A2":"text-transform",
+        "RA":"font-stretch"
+        },
+    {
+    
+        "title":"Which element is used to represent the transparency of an element in CSS ?",
+        "A1":"Hover",
+        "A2":"Transparent",
+        "RA":"Opacity"
+        },
+        {
+    
+            "title":"Which of the below CSS property is used to add a stroke in the text ? ",
+            "A1":"text-decoration",
+            "A2":"text-transform",
+            "RA":"text-stroke"
+            },
+    {
+    
+        "title":"Which property in CSS is responsible for setting the difference between two lines ? ",
+        "A1":"min-height property",
+        "A2":"max-height property",
+        "RA":"line-height property"
+        },
+    {
+    
+        "title":"Which below function in CSS is used to perform the calculation ? ",
+        "A1":"calculator() function",
+        "A2":"calculate() function",
+        "RA":"calc() function"
+        },
+    {
+    
+        "title":"Which of the below CSS property is used to set the origin of the background image in bootstraps ?",
+        "A1":"background-image",
+        "A2":"background-size",
+        "RA":"background-origin"
+        },
+    {
+    
+        "title":"Which below CSS property best describes how an image or video fits into a container?",
+        "A1":"object-move",
+        "A2":"position-hide",
+        "RA":"object-fit"
+        },
+    {
+    
+        "title":"Which year W3C was developed in CSS1?",
+        "A1":"1994",
+        "A2":"1992",
+        "RA":"1996"
+        },
+{
+
+    "title":"Where in an HTML document is the correct place to refer to an external style sheet?",
+    "A1":"&ltfooter&gt section",
+    "A2":"&ltbody&gt section",
+    "RA":"&lthead&gt section"
+    },
+    {
+
+        "title":"How do you insert a comment in a CSS file? ",
+        "A1":"&lt!-- this is a css comment --&gt",
+        "A2":"// this is a css comment //",
+        "RA":"/* this is a css comment */"
+        },
+{
+
+    "title":"Which HTML tag is used to define an internal style sheet? ",
+    "A1":"&ltscript&gt",
+    "A2":"&ltcss&gt",
+    "RA":"&ltstyle&gt"
+    },
+    {
+
+        "title":"Which is the correct CSS syntax?",
+        "A1":"body :color= blue",
+        "A2":"{body ;color: blue;}",
+        "RA":"body {color: blue;}"
+        }
+    
+    ]

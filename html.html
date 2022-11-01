@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="css.css">
+    <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+    
+
+    <title>Quiz game</title>
+
+</head>
+<body class="font-sans">
+<div class="categoryPage z-[2] bg-[url('images/back.jpeg')] flex justify-center items-center w-full  h-full fixed top-0 left-0">
+    <div class="P1container bg-white w-6/12 p-8 rounded-2xl text-white font-bold text-xl shadow-xl   shadow-black ">
+        <div class="Categories flex  justify-between mb-10">
+            <div class="html">
+                <img src="images/html.png" alt="">
+                <span class="catName  hover:bg-orange-600"  >Html</span>
+            </div>
+            <div class="css">
+                <img src="images/css.png" alt="">
+                <span class="catName hover:bg-blue-600" >Css</span>
+            </div>
+            <div class="js">
+                <img src="images/js.png" alt="">
+                <span class="catName hover:bg-yellow-400" >JavaScript</span>
+            </div>
+        </div>
+        <div class="Start bg-red-400 text-center cursor-pointer hover:scale-125 w-5/12 mx-auto rounded-2xl overflow-hidden py-3">Start Quiz</div>
+        <div class="note text-black mx-auto w-4/10 text-center mt-4 hidden">You didn't select any Category ! please chose one </div>
+  </div>
+
+</div>
+<div class="flex items-center h-screen bg-[url('images/back.jpeg')]">
+    <div class="welcome">
+
+    </div>
+<div class="questionPage  bg-[#f8f8f8] w-8/12 mx-auto mt-8 flex flex-col shadow-2x">
+    <div class="info flex justify-between bg-[#fff] px-4 py-5 m-2">
+        <div >Category: <span class="cat text-[#ff1744] text-xl font-bold">HTML</span></div>
+        <div class="flex ">
+        <img src="images/Icons8_flat_clock.svg.png" alt="" class="w-8 h-8 self-center">
+        <div class="timer text-2xl font-bold ml-2 ">01:00</div>
+
+        </div>
+        <div >Questions Count : <span class="count text-[#ff1744] text-xl font-bold">10</span></div>
+    </div>
+    <div class="Question-container bg-white p-4 m-2">
+        <span class="title  text-3xl font-extrabold">What does HTML stand for?</span> 
+        <div class="Answers mt-5">
+
+
+
+        </div>
+ 
+    </div>
+    <div class="Submit px-3 py-5 text-center text-white bg-blue-600 text-xl font-semibold m-2 cursor-pointer rounded-lg ">Submit Answer</div>
+    <div class="flex justify-center p-4 m-2 bg-[#fff] mb-4 deleted ">
+        <div class="flex bolles  ">
+
+        </div>
+    </div   >
+    <div class="m-2 px-3 result flex justify-center bg-white">
+    
+           
+        
+    </div>
+</div>
+</div>
+
+
+
+
+
+
+
+</body>
+<script src="js.js"></script>
+<audio src="audios/fail.mp3" class="fail" preload="auto"></audio>
+<audio src="audios/Succes.mp3" class="Succes" preload="auto"></audio>
+</html>

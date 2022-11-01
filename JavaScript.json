@@ -1,0 +1,129 @@
+[
+    {
+        "title":"Comment ajouter du code JavaScript dans une page HTML?",
+        "A1":"&ltscript src=text/javascript&gt &lt/script&gt",
+        "A2":"&ltscript src=javascript&gt &lt/script&gt",
+        "RA":"&ltscript type=text/javascript&gt &lt/script&gt"
+        
+    },
+    {
+    
+        "title":" Dans la hiérarchie des objets, quel est le parent direct de l'objet 'form' ?",
+        "A1":"body",
+        "A2":"window",
+        "RA":"document"
+        },
+    {
+    
+        "title":"alert((1||0)?'VRAI':'FAUX'); affiche",
+        "A1":"FAUX",
+        "A2":"une erreur",
+        "RA":"VRAI"
+        },
+    {
+    
+        "title":"Comment lire le jour du mois dans une date ?",
+        "A1":"Date.parse()",
+        "A2":"getDay()",
+        "RA":"getDate()"
+        },
+    {
+    
+        "title":"Que fait i++ ?  ",
+        "A1":"renvoie la chaîne 'i+'",
+        "A2":"décale la valeur binaire de i",
+        "RA":"incrémente i de 1"
+        },
+    {
+        "title":"Quelle fonction permet de temporiser l'exécution d'une commande ?",
+        "A1":"SetTimer()",
+        "A2":"wait()",
+        "RA":"setTimeout()"
+    
+    },
+    {
+    
+        "title":"Quel mot clé sert à ajouter des propriétés ou méthodes à un objet existant ?",
+        "A1":"new",
+        "A2":"this",
+        "RA":"prototype"
+        },
+    {
+    
+        "title":"Quelle instruction ouvre une nouvelle fenêtre ?",
+        "A1":"open.url()",
+        "A2":"open.html()",
+        "RA":"window.open()"
+        } ,
+    {
+    
+        "title":"Que renvoie ch1.substring(2,4) si ch1 ='ABCDEF'?",
+        "A1":"CDE",
+        "A2":"BCD",
+        "RA":"CD"
+        },
+    {
+    
+        "title":"Comment connaître le nombre d'éléments d'un formulaire ?",
+        "A1":"document.form1.length",
+        "A2":"document.form1.count",
+        "RA":"document.form1.elements.length"
+        },
+        {
+    
+            "title":"JavaScript ",
+            "A1":"doit être compilé avant d'être exécuté",
+            "A2":"s'exécute sur le serveur uniquement",
+            "RA":"s'exécute sur le clien"
+            },
+    {
+    
+        "title":"Comment trouver la longueur de la variable Nom ? ",
+        "A1":"width(Nom)",
+        "A2":"Nom.width ",
+        "RA":"Nom.length "
+        },
+    {
+    
+        "title":"Quel opérateur est utilisé pour concaténer des chaînes de caractères ? ",
+        "A1":"add",
+        "A2":"&",
+        "RA":"+"
+        },
+    {
+    
+        "title":"Avec l'événement 'onKeyPressed', quelle propriété stocke le code ASCII de la touche appuyée ?",
+        "A1":"event.CharCode",
+        "A2":"fromCharCode",
+        "RA":"event.which"
+        },
+    {
+    
+        "title":"Which of the following is the correct way of creating an hyperlink in HTML?",
+        "A1":"à opérer une affectation après la comparaison",
+        "A2":"n'existe pas en JavaScript",
+        "RA":"à comparer le type et la valeur de 2 données"
+        },
+    {
+    
+        "title":"Que retourne isNaN('ABC'); ?",
+        "A1":"une erreur",
+        "A2":"false",
+        "RA":"true"
+        },
+{
+
+    "title":"Comment afficher 'Bonjour' sur la console ?",
+    "A1":"prompt('Bonjour');",
+    "A2":"console('Bonjour');",
+    "RA":"console.log('Bonjour');"
+    },
+    {
+
+        "title":"Le mot clé 'var' permet de déclarer des variables ",
+        "A1":"globales uniquement",
+        "A2":"locales uniquement",
+        "RA":"locales ou globales"
+        }
+    
+    ]

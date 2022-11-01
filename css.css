@@ -1,0 +1,59 @@
+.Categories img {
+    width: 200px;
+    height: 200px;
+}
+.catName{
+    text-align: center;
+    background-color:black;
+    padding: 10px 0px;
+    cursor: pointer;
+    margin-top: 20px;
+    transition: 0.2s;
+
+}
+.catName:hover{
+    color: black;
+    outline: none;
+    font-size: x-large;
+}
+.html,.css,.js{
+    display: flex;
+    flex-direction: column;
+}
+.Answers .answer{
+    background-color: #f8f8f8;
+    padding: 10px;
+    margin-bottom: 3px;
+    display: flex;
+}
+.Answers .answer label{
+    margin-left: 10px;
+    font-size:large;
+    font-weight: 600;
+  
+}
+.Answers .answer input[type="radio"]:checked +label{
+    color: blue;
+}
+.bolles span{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    background-color:rgb(219, 213, 213);
+    margin-right: 3px;
+
+}
+.bolles span.clicked{
+    background-color: blue;
+}
+.Answers .answer.correct{
+    background-color: #64dd17;
+}
+.Answers .answer.wrong{
+    background-color: #ff1744;
+    color: black;
+}
+.catName.selected{
+    background-color: #64dd17;
+}
+
